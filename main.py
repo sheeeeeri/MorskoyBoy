@@ -233,7 +233,7 @@ class Field(object):
 
 
 class Game(object):
-    letters = ("A", "B", "C", "D", "E", "F")
+    letters = ("A", "B", "C", "D", "E", "F", "G", "H", "I", "J")
     ships_rules = [1, 1, 1, 1, 2, 2, 2, 3, 3, 4]
     field_size = len(letters)
 
